@@ -138,3 +138,4 @@ public class Chat_App_POE_Part1 {
         System.out.println("Total messages sent: " + Message.returnTotalMessagess());
     }
 }
+
